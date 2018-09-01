@@ -1,0 +1,13 @@
+config:
+  가죽갑옷:
+    Material_Name: LEATHER_CHESTPLATE
+    Amount: 3
+    name: '&a1'
+    metadata: 0
+    color: '3220D5'
+    lore:
+      - '&a- &f색상 닉네임을 &e노랑&f색으로 변경합니다.1'
+      - '&4[교환 불가]'
+      - '&a- &fPLAYER님의 귀속 아이템 입니다.'
+    enchants:
+      - "DURABILITY: 1"

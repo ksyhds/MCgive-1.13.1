@@ -1,0 +1,8 @@
+name: MCgive
+main: com.gmail.Moon_Eclipse.MCgive.MCgive
+version: 1.0 [18.08.29]
+author: Moon_Eclipse
+api-version: 1.13
+commands:
+    주기:
+        description: /주기 플레이어이름 이름 , /주기 리로드
