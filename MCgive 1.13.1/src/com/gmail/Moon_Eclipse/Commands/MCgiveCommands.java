@@ -6,8 +6,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import com.Moon_Eclipse.MCgive.ItemDeliver.ItemDeliver;
 import com.gmail.Moon_Eclipse.MCgive.MCgive;
+import com.gmail.Moon_Eclipse.MCgive.ItemDeliver.ItemDeliver;
 
 public class MCgiveCommands implements CommandExecutor
 {
