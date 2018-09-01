@@ -4,7 +4,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.Configuration;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.gmail.Moon_Eclipse.Commands.MCgiveCommands;
+import com.gmail.Moon_Eclipse.MCgive.Commands.MCgiveCommands;
 import com.gmail.Moon_Eclipse.MCgive.ItemDeliver.ItemDeliver;
 
 public class MCgive extends JavaPlugin

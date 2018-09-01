@@ -1,4 +1,4 @@
-package com.gmail.Moon_Eclipse.Commands;
+package com.gmail.Moon_Eclipse.MCgive.Commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
